@@ -1,1 +1,2 @@
 # Neural Network on Concrete Data
+The concrete dataset contains measurements of various properties of concrete mixtures and the strength of the concrete produced from those mixtures. The goal of the neural network is to predict the strength of concrete based on these properties. The dataset contains 1030 samples and 8 input features, including the amount of cement, slag, fly ash, water, superplasticizer, coarse aggregate, fine aggregate, and age of the concrete.
